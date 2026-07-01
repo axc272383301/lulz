@@ -214,8 +214,8 @@ local Globals_ = NewLayer("Globals_", Color3.fromRGB(132,214,247), 5)
 local Keywords_ = NewLayer("Keywords_", Color3.fromRGB(248,109,124), 5)
 local RemoteHighlight_ = NewLayer("RemoteHighlight_", Color3.fromRGB(0,144,255), 5)
 local Strings_ = NewLayer("Strings_", Color3.fromRGB(163,233,147), 5)
-local Tokens_ = NewLayer("Tokens_", Color3.fromRGB(255, 164, 1), 5)
-local Numbers_ = NewLayer("Numbers_", Color3.fromRGB(200, 200, 200), 4)
+local Tokens_ = NewLayer("Tokens_", Color3.fromRGB(200, 200, 200), 5)
+local Numbers_ = NewLayer("Numbers_", Color3.fromRGB(255, 165, 0), 4)
 
 
 
